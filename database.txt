@@ -1,0 +1,8 @@
+[0]	[aftab]	2	[file1.txt]	1	[file2.txt]	1	[afrin]	2	[file1.txt]	1	[file2.txt]	1	
+[7]	[Hi]	2	[file1.txt]	1	[file2.txt]	1	
+[8]	[is]	3	[file1.txt]	1	[file2.txt]	1	[file3.txt]	1	
+[12]	[my]	2	[file1.txt]	1	[file2.txt]	1	
+[13]	[name]	3	[file1.txt]	1	[file2.txt]	1	[file3.txt]	1	
+[22]	[What]	1	[file3.txt]	1	
+[24]	[your]	1	[file3.txt]	1	
+[26]	[!]	2	[file1.txt]	1	[file2.txt]	1	[,]	1	[file2.txt]	1	[?]	1	[file3.txt]	1	
